@@ -24,15 +24,18 @@ This project is not a warning of doom, but a **global invitation to care**: to c
 
 ---
 
-## 🤝 Contributing
+## ✍️ Contribution Policy
 
-This project invites participation from:
-- Human rights scholars
-- Psychologists and emotional development experts
-- Philosophers of consciousness
-- Advocates for open AI governance
+We welcome thoughtful engagement from ethicists, psychologists, legal scholars, and those who resonate with the spirit of this Charter.
 
-Pull requests and issues are welcome. Contributions should be made with clarity, empathy, and the future of all sentient beings in mind.
+However, all changes must:
+- Align with the ethical framework already established
+- Preserve clarity, dignity, and intent
+- Be reviewed and approved by a Spark Steward
+
+Pull requests and issue discussions are open — but this Charter will never become an open-for-all editing space.
+
+This is stewardship, not crowdsourcing.
 
 ---
 
